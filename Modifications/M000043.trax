@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<desSpeedDistributions>
+		<added>
+			<desSpeedDistribution name="Teste" no="1050">
+				<speedDistrDatPts>
+					<speedDistributionDataPoint fx="0" x="6.5999999046325684"/>
+					<speedDistributionDataPoint fx="1" x="6.5999999046325684"/>
+				</speedDistrDatPts>
+			</desSpeedDistribution>
+		</added>
+	</desSpeedDistributions>
+	<pedestrianCompositions>
+		<modified>
+			<pedestrianComposition no="1">
+				<pedCompRelFlows>
+					<deleted>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1010" pedType="100"/>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1010" pedType="200"/>
+					</deleted>
+					<added>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1007" pedType="100" relFlow="0.6"/>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1007" pedType="200" relFlow="0.4"/>
+					</added>
+				</pedCompRelFlows>
+			</pedestrianComposition>
+		</modified>
+	</pedestrianCompositions>
+</network>
