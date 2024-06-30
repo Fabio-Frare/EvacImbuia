@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<areas>
+		<deleted>
+			<area no="43"/>
+		</deleted>
+	</areas>
+	<desSpeedDistributions>
+		<added>
+			<desSpeedDistribution name="6,6 km/h (1,83 m/s)" no="1052">
+				<speedDistrDatPts>
+					<speedDistributionDataPoint fx="0" x="6.5999999046325684"/>
+					<speedDistributionDataPoint fx="1" x="6.5999999046325684"/>
+				</speedDistrDatPts>
+			</desSpeedDistribution>
+		</added>
+	</desSpeedDistributions>
+	<obstacles>
+		<deleted>
+			<obstacle no="166"/>
+			<obstacle no="209"/>
+			<obstacle no="210"/>
+			<obstacle no="220"/>
+			<obstacle no="222"/>
+			<obstacle no="5125"/>
+			<obstacle no="5126"/>
+			<obstacle no="5127"/>
+			<obstacle no="5162"/>
+			<obstacle no="5217"/>
+		</deleted>
+		<added>
+			<obstacle displayType="43" height="1" level="2" name="" no="138657" zOffsetB="0">
+				<geometry>
+					<points>
+						<point x="306.34873360592775" y="-50.751877686044566"/>
+						<point x="306.49727381623893" y="-50.731001720900558"/>
+						<point x="304.76169284163637" y="-38.381701403470636"/>
+						<point x="304.61315263132519" y="-38.402577368614644"/>
+					</points>
+				</geometry>
+			</obstacle>
+		</added>
+		<modified>
+			<obstacle no="136">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="297.47077498875245" y="-52.196048774693459"/>
+								<point x="306.52426629384377" y="-50.923663549705083"/>
+								<point x="306.48947301860375" y="-50.676096532519693"/>
+								<point x="297.43598171351243" y="-51.94848175750807"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+			<obstacle no="142">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="308.70575227853089" y="-35.467893450598467"/>
+								<point x="308.95331929571626" y="-35.433100175358454"/>
+								<point x="306.81279207851384" y="-20.202457624137224"/>
+								<point x="306.56522506132848" y="-20.237250899377237"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+			<obstacle no="208">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="303.61023483688683" y="-36.199697267956253"/>
+								<point x="308.72736699925605" y="-35.480531242574394"/>
+								<point x="308.69257372401603" y="-35.232964225388997"/>
+								<point x="303.57544156164681" y="-35.952130250770857"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+			<obstacle no="211">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="303.61114298672453" y="-36.197220087535683"/>
+								<point x="303.75968319703566" y="-36.176344122391676"/>
+								<point x="302.33502990565273" y="-26.039409227996977"/>
+								<point x="302.18648969534161" y="-26.060285193140984"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+		</modified>
+	</obstacles>
+	<pedestrianCompositions>
+		<modified>
+			<pedestrianComposition no="1">
+				<pedCompRelFlows>
+					<deleted>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="12" pedType="100"/>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="12" pedType="200"/>
+					</deleted>
+					<added>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1052" pedType="100" relFlow="0.6"/>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1052" pedType="200" relFlow="0.4"/>
+					</added>
+				</pedCompRelFlows>
+			</pedestrianComposition>
+		</modified>
+	</pedestrianCompositions>
+	<pedestrianInputs>
+		<modified>
+			<pedestrianInput no="97">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volume="5000"/>
+						<timeIntervalPedVolume timeInt="5 30000" volume="5000"/>
+						<timeIntervalPedVolume timeInt="5 60000" volume="5000"/>
+						<timeIntervalPedVolume timeInt="5 90000" volume="5000"/>
+						<timeIntervalPedVolume timeInt="5 120000" volume="5000"/>
+						<timeIntervalPedVolume timeInt="5 150000" volume="5000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="98">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volume="5000"/>
+						<timeIntervalPedVolume timeInt="5 30000" volume="5000"/>
+						<timeIntervalPedVolume timeInt="5 60000" volume="5000"/>
+						<timeIntervalPedVolume timeInt="5 90000" volume="5000"/>
+						<timeIntervalPedVolume timeInt="5 120000" volume="5000"/>
+						<timeIntervalPedVolume timeInt="5 150000" volume="5000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+		</modified>
+	</pedestrianInputs>
+	<ramps>
+		<deleted>
+			<ramp no="13"/>
+		</deleted>
+	</ramps>
+</network>
