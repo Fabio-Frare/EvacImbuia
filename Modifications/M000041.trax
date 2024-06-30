@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<areas>
+		<deleted>
+			<area no="343"/>
+			<area no="349"/>
+			<area no="350"/>
+			<area no="352"/>
+			<area no="353"/>
+			<area no="370"/>
+			<area no="371"/>
+			<area no="372"/>
+			<area no="373"/>
+		</deleted>
+	</areas>
+	<pedestrianInputs>
+		<deleted>
+			<pedestrianInput no="27"/>
+			<pedestrianInput no="28"/>
+			<pedestrianInput no="29"/>
+			<pedestrianInput no="33"/>
+			<pedestrianInput no="34"/>
+			<pedestrianInput no="35"/>
+			<pedestrianInput no="36"/>
+			<pedestrianInput no="38"/>
+			<pedestrianInput no="39"/>
+		</deleted>
+	</pedestrianInputs>
+	<pedestrianRoutingDecisionsStatic>
+		<deleted>
+			<pedestrianRoutingDecisionStatic no="27"/>
+			<pedestrianRoutingDecisionStatic no="28"/>
+			<pedestrianRoutingDecisionStatic no="30"/>
+			<pedestrianRoutingDecisionStatic no="32"/>
+			<pedestrianRoutingDecisionStatic no="33"/>
+			<pedestrianRoutingDecisionStatic no="34"/>
+			<pedestrianRoutingDecisionStatic no="35"/>
+			<pedestrianRoutingDecisionStatic no="37"/>
+			<pedestrianRoutingDecisionStatic no="38"/>
+		</deleted>
+	</pedestrianRoutingDecisionsStatic>
+</network>
