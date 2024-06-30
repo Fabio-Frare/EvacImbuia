@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<areas>
+		<deleted>
+			<area no="343"/>
+			<area no="351"/>
+			<area no="354"/>
+			<area no="372"/>
+			<area no="375"/>
+			<area no="377"/>
+			<area no="387"/>
+			<area no="388"/>
+			<area no="389"/>
+			<area no="391"/>
+			<area no="393"/>
+			<area no="396"/>
+			<area no="397"/>
+			<area no="399"/>
+			<area no="404"/>
+			<area no="406"/>
+			<area no="407"/>
+			<area no="408"/>
+			<area no="409"/>
+			<area no="410"/>
+			<area no="411"/>
+			<area no="417"/>
+			<area no="422"/>
+			<area no="424"/>
+			<area no="425"/>
+			<area no="433"/>
+			<area no="435"/>
+			<area no="437"/>
+			<area no="438"/>
+			<area no="439"/>
+			<area no="440"/>
+		</deleted>
+	</areas>
+	<evaluation>
+		<modified>
+			<areaMeasResults>
+				<modified collectData="false"/>
+			</areaMeasResults>
+			<areaResults>
+				<modified collectData="false"/>
+			</areaResults>
+			<pedNetPerf>
+				<modified collectData="false"/>
+			</pedNetPerf>
+			<pedTravTms>
+				<modified collectData="false"/>
+			</pedTravTms>
+		</modified>
+	</evaluation>
+	<pedestrianCompositions>
+		<modified>
+			<pedestrianComposition no="1">
+				<pedCompRelFlows>
+					<deleted>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1010" pedType="100"/>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1010" pedType="200"/>
+					</deleted>
+					<added>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1007" pedType="100" relFlow="0.6"/>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1007" pedType="200" relFlow="0.4"/>
+					</added>
+				</pedCompRelFlows>
+			</pedestrianComposition>
+		</modified>
+	</pedestrianCompositions>
+	<pedestrianInputs>
+		<deleted>
+			<pedestrianInput no="27"/>
+			<pedestrianInput no="30"/>
+			<pedestrianInput no="31"/>
+			<pedestrianInput no="35"/>
+			<pedestrianInput no="40"/>
+			<pedestrianInput no="42"/>
+			<pedestrianInput no="44"/>
+			<pedestrianInput no="45"/>
+			<pedestrianInput no="46"/>
+			<pedestrianInput no="52"/>
+			<pedestrianInput no="53"/>
+			<pedestrianInput no="54"/>
+			<pedestrianInput no="57"/>
+			<pedestrianInput no="59"/>
+			<pedestrianInput no="60"/>
+			<pedestrianInput no="61"/>
+			<pedestrianInput no="62"/>
+			<pedestrianInput no="63"/>
+			<pedestrianInput no="64"/>
+			<pedestrianInput no="65"/>
+			<pedestrianInput no="67"/>
+			<pedestrianInput no="68"/>
+			<pedestrianInput no="70"/>
+			<pedestrianInput no="77"/>
+			<pedestrianInput no="84"/>
+			<pedestrianInput no="85"/>
+			<pedestrianInput no="86"/>
+			<pedestrianInput no="88"/>
+			<pedestrianInput no="90"/>
+			<pedestrianInput no="91"/>
+			<pedestrianInput no="92"/>
+			<pedestrianInput no="93"/>
+		</deleted>
+		<modified>
+			<pedestrianInput no="28">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="144000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="29">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="144000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="33">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="34">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="36">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="72000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="37">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="540000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="38">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="72000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="39">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="72000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="41">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="72000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="43">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="36000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="47">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="48">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="49">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="50">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="51">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="55">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="504000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="56">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="72000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="58">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="72000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="66">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="69">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="71">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="72">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="72000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="73">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="74">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="76">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="79">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="80">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="72000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="81">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="72000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="82">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="83">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1008000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="87">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="72000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="94">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="72000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+		</modified>
+	</pedestrianInputs>
+	<pedestrianRoutingDecisionsStatic>
+		<deleted>
+			<pedestrianRoutingDecisionStatic no="27"/>
+			<pedestrianRoutingDecisionStatic no="29"/>
+			<pedestrianRoutingDecisionStatic no="31"/>
+			<pedestrianRoutingDecisionStatic no="34"/>
+			<pedestrianRoutingDecisionStatic no="39"/>
+			<pedestrianRoutingDecisionStatic no="41"/>
+			<pedestrianRoutingDecisionStatic no="43"/>
+			<pedestrianRoutingDecisionStatic no="44"/>
+			<pedestrianRoutingDecisionStatic no="45"/>
+			<pedestrianRoutingDecisionStatic no="49"/>
+			<pedestrianRoutingDecisionStatic no="51"/>
+			<pedestrianRoutingDecisionStatic no="53"/>
+			<pedestrianRoutingDecisionStatic no="57"/>
+			<pedestrianRoutingDecisionStatic no="58"/>
+			<pedestrianRoutingDecisionStatic no="59"/>
+			<pedestrianRoutingDecisionStatic no="60"/>
+			<pedestrianRoutingDecisionStatic no="61"/>
+			<pedestrianRoutingDecisionStatic no="62"/>
+			<pedestrianRoutingDecisionStatic no="63"/>
+			<pedestrianRoutingDecisionStatic no="64"/>
+			<pedestrianRoutingDecisionStatic no="66"/>
+			<pedestrianRoutingDecisionStatic no="73"/>
+			<pedestrianRoutingDecisionStatic no="75"/>
+			<pedestrianRoutingDecisionStatic no="80"/>
+			<pedestrianRoutingDecisionStatic no="84"/>
+			<pedestrianRoutingDecisionStatic no="85"/>
+			<pedestrianRoutingDecisionStatic no="87"/>
+			<pedestrianRoutingDecisionStatic no="88"/>
+			<pedestrianRoutingDecisionStatic no="90"/>
+			<pedestrianRoutingDecisionStatic no="96"/>
+			<pedestrianRoutingDecisionStatic no="97"/>
+			<pedestrianRoutingDecisionStatic no="98"/>
+		</deleted>
+	</pedestrianRoutingDecisionsStatic>
+	<pedestrianTravelTimeMeasurements>
+		<deleted>
+			<pedestrianTravelTimeMeasurement no="3"/>
+			<pedestrianTravelTimeMeasurement no="6"/>
+			<pedestrianTravelTimeMeasurement no="8"/>
+			<pedestrianTravelTimeMeasurement no="11"/>
+			<pedestrianTravelTimeMeasurement no="12"/>
+			<pedestrianTravelTimeMeasurement no="15"/>
+			<pedestrianTravelTimeMeasurement no="16"/>
+			<pedestrianTravelTimeMeasurement no="17"/>
+			<pedestrianTravelTimeMeasurement no="18"/>
+			<pedestrianTravelTimeMeasurement no="19"/>
+			<pedestrianTravelTimeMeasurement no="20"/>
+			<pedestrianTravelTimeMeasurement no="21"/>
+			<pedestrianTravelTimeMeasurement no="22"/>
+			<pedestrianTravelTimeMeasurement no="23"/>
+			<pedestrianTravelTimeMeasurement no="24"/>
+			<pedestrianTravelTimeMeasurement no="25"/>
+			<pedestrianTravelTimeMeasurement no="29"/>
+			<pedestrianTravelTimeMeasurement no="31"/>
+			<pedestrianTravelTimeMeasurement no="32"/>
+			<pedestrianTravelTimeMeasurement no="33"/>
+			<pedestrianTravelTimeMeasurement no="34"/>
+			<pedestrianTravelTimeMeasurement no="37"/>
+			<pedestrianTravelTimeMeasurement no="43"/>
+			<pedestrianTravelTimeMeasurement no="50"/>
+			<pedestrianTravelTimeMeasurement no="53"/>
+			<pedestrianTravelTimeMeasurement no="56"/>
+			<pedestrianTravelTimeMeasurement no="58"/>
+			<pedestrianTravelTimeMeasurement no="59"/>
+			<pedestrianTravelTimeMeasurement no="60"/>
+			<pedestrianTravelTimeMeasurement no="62"/>
+			<pedestrianTravelTimeMeasurement no="63"/>
+		</deleted>
+	</pedestrianTravelTimeMeasurements>
+</network>
