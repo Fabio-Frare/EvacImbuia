@@ -17,4 +17,4 @@ O Bloco Imbuia é um edifício composto de três pavimentos integrando 16 salas 
 
 >Figura 1: Vista aérea do Bloco Imbuia
 
-![Vista aérea do Bloco Imbuia](Componentes externos/Imagens/Bloco_Imbuia.jpg)
+![Vista aérea do Bloco Imbuia](Componentes externos/Texturas/Grass2.png)
