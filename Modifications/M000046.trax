@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<pedestrianInputs>
+		<modified>
+			<pedestrianInput no="97">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="0"/>
+						<timeIntervalPedVolume timeInt="5 100" volume="0"/>
+						<timeIntervalPedVolume timeInt="5 30000" volume="0"/>
+						<timeIntervalPedVolume timeInt="5 60000" volume="0"/>
+						<timeIntervalPedVolume timeInt="5 90000" volume="0"/>
+						<timeIntervalPedVolume timeInt="5 120000" volume="0"/>
+						<timeIntervalPedVolume timeInt="5 150000" volume="0"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="98">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1000"/>
+						<timeIntervalPedVolume timeInt="5 100" volume="1000"/>
+						<timeIntervalPedVolume timeInt="5 30000" volume="1000"/>
+						<timeIntervalPedVolume timeInt="5 60000" volume="1000"/>
+						<timeIntervalPedVolume timeInt="5 90000" volume="1000"/>
+						<timeIntervalPedVolume timeInt="5 120000" volume="1000"/>
+						<timeIntervalPedVolume timeInt="5 150000" volume="1000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+		</modified>
+	</pedestrianInputs>
+</network>
