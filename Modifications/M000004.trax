@@ -1,0 +1,2069 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<areas>
+		<deleted>
+			<area no="392"/>
+			<area no="428"/>
+			<area no="436"/>
+		</deleted>
+		<modified>
+			<area no="14">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="319.90310771833231" y="-48.983678122137803"/>
+								<point x="333.46978026009185" y="-47.077006638984884"/>
+								<point x="325.09495472279099" y="12.512973419375079"/>
+								<point x="311.52828218103144" y="10.60630193622216"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</area>
+			<area name="" no="338"/>
+			<area name="111 - Sala Administrativa" no="343"/>
+			<area name="108 - Sala Administrativa" no="349"/>
+			<area name="107 - Sala Administrativa" no="350"/>
+			<area name="114 - Sala Administrativa" no="351"/>
+			<area name="101 - Sala Administrativa" no="352"/>
+			<area name="102 - Sala Administrativa" no="353"/>
+			<area name="106 - Sala Administrativa" no="354"/>
+			<area name="110 - Sala de aula" no="370"/>
+			<area name="109 - Sala de aula" no="371"/>
+			<area name="103 - Sala Administrativa" no="372"/>
+			<area name="104 - Sala Administrativa" no="373"/>
+			<area name="105 - Sala Administrativa" no="374"/>
+			<area name="106 - Sala Administrativa" no="375"/>
+			<area name="113 - Sala Administrativa" no="376"/>
+			<area name="112 - Sala Administrativa" no="377"/>
+			<area name="217 - Sala de Aula" no="384"/>
+			<area name="218 - Sala de Aula" no="385"/>
+			<area name="219 - Sala de Aula" no="386"/>
+			<area name="220 - Laboratório" no="387"/>
+			<area name="221 - Laboratório" no="388"/>
+			<area name="210 - Laboratório" no="389"/>
+			<area name="211 - Sala de Aula" no="390"/>
+			<area name="212 - Laboratório" no="391"/>
+			<area name="205 - Laboratório" no="393"/>
+			<area name="206 - Laboratório" no="394"/>
+			<area name="207 - Sala de Aula" no="395"/>
+			<area name="208 - Laboratório" no="396"/>
+			<area name="201 - Sala Administrativa" no="397"/>
+			<area name="201 - Sala Administrativa" no="398"/>
+			<area name="204 - Laboratório" no="399">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="328.37973376426811" y="-47.531242733779145"/>
+								<point x="333.07085927409457" y="-46.88666060265794"/>
+								<point x="331.7208178105796" y="-37.357588097582877"/>
+								<point x="328.05386168686789" y="-37.858929755121586"/>
+								<point x="328.25439834988339" y="-39.509776213159761"/>
+								<point x="327.25171503480601" y="-39.706731864335687"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</area>
+			<area name="215 - Sala de Aula" no="400"/>
+			<area name="214 - Sala de Aula" no="401"/>
+			<area name="216 - Sala Administrativa" no="402"/>
+			<area name="213 - Sala Administrativa" no="403"/>
+			<area name="212 - Sala Administrativa" no="404"/>
+			<area name="226 - Laboratório" no="405"/>
+			<area name="225 - Laboratório" no="406"/>
+			<area name="224 - Laboratório" no="407"/>
+			<area name="223 - Laboratório" no="408"/>
+			<area name="222 - Depósito" no="409"/>
+			<area name="209 - Depósito" no="410"/>
+			<area name="203 - Sala Administrativa" no="411"/>
+			<area name="311 - Sala Administrativa" no="417">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="309.32474637721884" y="-40.650833841989957"/>
+								<point x="296.46938357387319" y="-42.24906813645994"/>
+								<point x="297.78285812392971" y="-51.796567202924223"/>
+								<point x="310.69607196653385" y="-49.843307966227805"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</area>
+			<area name="314 - Sala de Aula" no="418"/>
+			<area name="315 - Sala de Aula" no="419"/>
+			<area name="316 - Sala de Aula" no="420"/>
+			<area name="308 - Sala de Aula" no="421"/>
+			<area name="303 - Sala Administrativa" no="422"/>
+			<area name="303 - Sala Administrativa" no="423"/>
+			<area name="304 - Sala Administrativa" no="424"/>
+			<area name="305 - Sala Administrativa" no="425"/>
+			<area name="306 - Sala de Aula" no="426"/>
+			<area name="318 - Sala de Aula" no="427"/>
+			<area name="310 - Sala de Aula" no="429"/>
+			<area name="317 - Sala Administrativa" no="430"/>
+			<area name="307 - Sala Administrativa" no="431"/>
+			<area name="307 - Sala Administrativa" no="432"/>
+			<area name="302 - Sala Administrativa" no="433"/>
+			<area name="301 - Sala Administrativa" no="434"/>
+			<area name="309 - Sala Administrativa" no="435"/>
+			<area name="303 - Sala Administrativa" no="437"/>
+			<area name="307 - Sala Administrativa" no="438"/>
+			<area name="317 - Sala Administrativa" no="439"/>
+			<area name="317 - Sala Administrativa" no="440"/>
+		</modified>
+	</areas>
+	<evaluation>
+		<modified>
+			<areaMeasResults>
+				<modified collectData="true" interval="660" toTime="660"/>
+			</areaMeasResults>
+			<areaResults>
+				<modified collectData="true" toTime="660"/>
+			</areaResults>
+			<pedNetPerf>
+				<modified collectData="true" interval="60" toTime="660"/>
+			</pedNetPerf>
+			<pedTravTms>
+				<modified collectData="true" toTime="660"/>
+			</pedTravTms>
+		</modified>
+	</evaluation>
+	<obstacles>
+		<modified>
+			<obstacle no="29">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="328.41635543201176" y="-12.900539344563827"/>
+								<point x="328.66392244919717" y="-12.86574606932381"/>
+								<point x="328.57246640230062" y="-12.215002482307156"/>
+								<point x="328.3248993851152" y="-12.249795757547172"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+			<obstacle no="138592">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="328.46273240367037" y="-12.895224160636591"/>
+								<point x="328.66078601741873" y="-12.86738954044457"/>
+								<point x="328.05434605983953" y="-8.5523450278416853"/>
+								<point x="327.85629244609117" y="-8.580179648033706"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+		</modified>
+	</obstacles>
+	<pedestrianCompositions>
+		<modified>
+			<pedestrianComposition no="1">
+				<pedCompRelFlows>
+					<deleted>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1008" pedType="100"/>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1007" pedType="200"/>
+					</deleted>
+					<added>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1010" pedType="100" relFlow="0.6"/>
+						<pedestrianCompositionRelativeFlow desSpeedDistr="1010" pedType="200" relFlow="0.4"/>
+					</added>
+				</pedCompRelFlows>
+			</pedestrianComposition>
+		</modified>
+	</pedestrianCompositions>
+	<pedestrianInputs>
+		<deleted>
+			<pedestrianInput no="78"/>
+			<pedestrianInput no="89"/>
+		</deleted>
+		<modified>
+			<pedestrianInput no="27">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.36108001591389893" y="1.0075565700046987"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="30">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="1.1637228566755198" y="0.23243248631323965"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="31">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.63720174131958629" y="0.13959778280677781"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="33">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.0084060014986562237" y="1.1194533104965601"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="35">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.085970667427488934" y="1.5986421622229656"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="36">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.1734908941376716" y="0.8731902426592697"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="37">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.23619343876015364" y="2.6352043884840839"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="38">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.69337081138218082" y="1.5108885355983226"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="39">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.11729874482347213" y="1.3991280835457545"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="40">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="1.4429324869341258" y="0.22426365275076421"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="41">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.67104506177656731" y="-0.10029253446686326"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="42">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.20694592736930417" y="0.27822550927005452"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="43">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.30104970429607647" y="0.4004262057270509"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="44">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.093439992538208116" y="-1.3813923549442535"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="45">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.24954879414946163" y="1.13198920165323"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="46">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.31609269550034469" y="1.2909989840849629"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="50">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.6227305472154967" y="2.7034800378490971"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="51">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.5532230963613074" y="0.75521450509953425"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="53">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.31258166096353079" y="1.2750076044174889"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="54">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.25181910654157491" y="1.5570394998533068"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="55">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.18596315522427176" y="1.9378640649832519"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="56">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.74714723558406604" y="2.065341916153038"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="57">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.50118244658818867" y="1.1930850835987385"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="58">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="1.5616864948275975" y="0.21270445088598677"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="59">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="1.343547588694264" y="0.14482830705886229"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="60">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.83759547875882845" y="1.147846891657311"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="61">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.30936952492089631" y="1.8931884813909901"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="62">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.35125373800929083" y="2.2152859582821556"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="63">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="1.3892926966161667" y="0.065243036945449528"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="64">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="1.2801803694467253" y="0.33743035455173498"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="65">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="1.280110074222705" y="0.31311750410677064"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="66">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.92914521065699773" y="2.3517548302736131"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="67">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.62526211296159317" y="2.135645555291747"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="68">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.36187516515099105" y="2.3779376075115604"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="69">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.24347324781012958" y="2.2952576879629127"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="70">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.72068451215642426" y="2.0733651286617043"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="71">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.41346955679989605" y="1.7293391384553054"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="72">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.2304710853975962" y="2.2436355032102773"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="73">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.34153970269909451" y="1.1091290802871239"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="74">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.84633232309732875" y="1.2258176816337105"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="76">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.66267151658530565" y="1.6072720656590462"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="77">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.16582108582156252" y="-2.0308514405456322"/>
+						</posOnArea>
+					</modified>
+				</location>
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="3096000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="79">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.055105313989542992" y="1.8542088982074034"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="80">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.37213384976115549" y="2.4974879781323747"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="81">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.52921964079638428" y="2.5490194861775874"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="82">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.51220656567153355" y="1.9731076936960914"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="83">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.5880982744045582" y="1.1055392989947794"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="84">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.045159648954154363" y="0.43244780955333084"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="85">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.71563664831853657" y="2.2949589673598574"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="86">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.44690877892412573" y="1.4438363550665407"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="87">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.20765039027145349" y="1.4000287652163124"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="88">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.40416039250470703" y="0.23154629756241007"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="90">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.18024030116112044" y="0.58918848538954194"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="92">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.089976037134022135" y="1.4634483208841473"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="93">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="1.1976808042539346" y="0.38483255249630588"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+			<pedestrianInput no="94">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.59549356101047124" y="1.2485563915886857"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianInput>
+		</modified>
+	</pedestrianInputs>
+	<pedestrianRoutingDecisionsStatic>
+		<deleted>
+			<pedestrianRoutingDecisionStatic no="76"/>
+			<pedestrianRoutingDecisionStatic no="77"/>
+		</deleted>
+		<modified>
+			<pedestrianRoutingDecisionStatic no="28">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.17790840243350203" y="0.51646032991956403"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="29">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.25104152949199943" y="-0.053498580413133823"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="30">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.17987362019709963" y="0.77974993577253215"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="31">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.19824104057596514" y="-0.0379024221946338"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="32">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.27874091000649059" y="-1.0046066849224502"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="33">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.26479054864262253" y="0.081396474696873611"/>
+						</posOnArea>
+					</modified>
+				</location>
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1">
+							<pedRoutLoc>
+								<overwritten>
+									<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+										<posOnArea x="-5.8273359683521448" y="-17.81764885129099"/>
+									</pedestrianRouteLocation>
+								</overwritten>
+							</pedRoutLoc>
+						</pedestrianRouteStatic>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="34">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.26160278636831436" y="-0.17784437940021292"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="35">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.14994551425559166" y="-1.3981057297149277"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="36">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.043097075540231344" y="1.4766262091646212"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="37">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.50027444816225852" y="0.54540671949877506"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="38">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.19453729011144105" y="0.5495040853781461"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="39">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.4388313981905867" y="0.069786562174833477"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="40">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.29443675432298733" y="-0.21615035239880953"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="41">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.68129734344228154" y="0.085129146050146431"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="42">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.14657261372013863" y="-0.29472070186462673"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="43">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.093439992538208116" y="-0.41591053884469886"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="44">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.056452430929539332" y="0.24374593084164253"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="45">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.099824768694020349" y="0.48771811309013557"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="47">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.17844375494331643" y="0.016476741110281523"/>
+						</posOnArea>
+					</modified>
+				</location>
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1">
+							<pedRoutLoc>
+								<overwritten>
+									<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+										<posOnArea x="-5.0933596992733214" y="-17.602517875871328"/>
+									</pedestrianRouteLocation>
+								</overwritten>
+							</pedRoutLoc>
+						</pedestrianRouteStatic>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="49">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.034991792832329338" y="-0.42424039191773488"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="51">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.010448652516743095" y="0.25363904811890592"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="53">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.3776007741274725" y="0.51338588506465044"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="54">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.093276900878720426" y="1.1036877758732331"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="55">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.098650975395230489" y="0.84703496381357724"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="56">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.68777475663210907" y="1.1449025601491662"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="57">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.44423427244294089" y="0.62708021763619648"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="58">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.21705289273603512" y="1.3641817006070287"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="59">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.03790050961902125" y="0.76052339125210366"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="60">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.26619378190434873" y="-0.036767494752775409"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="61">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.14875636620502064" y="0.11114555390340186"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="62">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.14868607098105713" y="0.23768923722399649"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="63">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.087563277618698976" y="0.50695836408594319"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="64">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.7700139437659459" y="0.011322594008400522"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="66">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.50319221596123498" y="-0.052902368878324779"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="67">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.79548012557097536" y="0.064406443933094693"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="68">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.49914887475478054" y="1.8384083306238956"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="69">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.43689146458018513" y="0.16332214188979322"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="71">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.38020875491628203" y="-0.33230421255500886"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="72">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.4212483925832089" y="0.1682454643241158"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="73">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.26815559039135906" y="-0.8014647722003545"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="74">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.49998389066257687" y="0.86042060966079248"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="75">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.09378322772596448" y="-0.1371801342855008"/>
+						</posOnArea>
+					</modified>
+				</location>
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1">
+							<pedRoutLoc>
+								<overwritten>
+									<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+										<posOnArea x="-6.6119312904709204" y="-17.81764885129099"/>
+									</pedestrianRouteLocation>
+								</overwritten>
+							</pedRoutLoc>
+						</pedestrianRouteStatic>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="78">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.5419862895728329" y="0.27973456852215861"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="79">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.24660775354158204" y="0.40598617405806436"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="80">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.15399373828546459" y="0.24001028008137126"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="81">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.60496186907244009" y="-0.22240504251562498"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="82">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.13061355598949831" y="-0.062082200010667776"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="83">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.10582636869042972" y="-0.65872092477798994"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="84">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.21878788381360437" y="-0.88068875458429119"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="85">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.012856062058801854" y="-0.23147105829509229"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="86">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.094062677259671545" y="-0.33482137308759263"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="87">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.29605224515853479" y="-0.29101378323736782"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="88">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.47426619429364791" y="0.94328442482046881"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="89">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.40239719779054894" y="0.13825230307418934"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="90">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.19601618271968846" y="-0.84983272745390082"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="91">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.31911020245161126" y="0.50557533322475656"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="92">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.21095693999063769" y="-0.47845430554356305"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="93">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.23957509596652926" y="0.71460403558841623"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="94">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.22731157734619956" y="1.2906357080079207"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="95">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.0041862847492666333" y="0.58421363178916064"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="96">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="-0.36711451114337024" y="-0.048054877416427999"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="98">
+				<location>
+					<modified>
+						<posOnArea>
+							<modified x="0.025881780797931242" y="0.61382432271653009"/>
+						</posOnArea>
+					</modified>
+				</location>
+			</pedestrianRoutingDecisionStatic>
+		</modified>
+	</pedestrianRoutingDecisionsStatic>
+	<pedestrianTravelTimeMeasurements>
+		<added>
+			<pedestrianTravelTimeMeasurement name="" no="1">
+				<end area="338">
+					<posOnArea x="-12.078789018782288" y="-18.665517989709649"/>
+				</end>
+				<start area="370">
+					<posOnArea x="0.14280266334463931" y="-0.12256793817972778"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="2">
+				<end area="338">
+					<posOnArea x="-7.1473859609088208" y="-17.981369850966985"/>
+				</end>
+				<start area="371">
+					<posOnArea x="0.41926763921856036" y="-0.80684679611471211"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="3">
+				<end area="338">
+					<posOnArea x="-13.945536524428974" y="-18.85832857031199"/>
+				</end>
+				<start area="343">
+					<posOnArea x="0.025112710525945658" y="-1.1551226980582925"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="4">
+				<end area="338">
+					<posOnArea x="-5.4487906302812803" y="-6.2518321600233051"/>
+				</end>
+				<start area="349">
+					<posOnArea x="-0.023431311857564197" y="-0.56487930411193688"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="5">
+				<end area="338">
+					<posOnArea x="-5.1885631095356644" y="-8.0583391518658232"/>
+				</end>
+				<start area="350">
+					<posOnArea x="0.54211074390724434" y="-0.45459700336538589"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="6">
+				<end area="338">
+					<posOnArea x="-6.7292608888832888" y="5.7776186989758074"/>
+				</end>
+				<start area="377">
+					<posOnArea x="-1.6081598868978517" y="0.046509873406161972"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="7">
+				<end area="338">
+					<posOnArea x="-7.2699307058990144" y="8.7126834199184415"/>
+				</end>
+				<start area="376">
+					<posOnArea x="-1.2514404332248432" y="-0.40417793608414598"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="8">
+				<end area="338">
+					<posOnArea x="-6.8669627329044829" y="4.6397983787024586"/>
+				</end>
+				<start area="351">
+					<posOnArea x="-1.293761890879523" y="-0.24659494363304546"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="9">
+				<end area="338">
+					<posOnArea x="-0.76306600629612831" y="10.068944001084258"/>
+				</end>
+				<start area="352">
+					<posOnArea x="-0.30717808494233623" y="-0.34283655131281066"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="10">
+				<end area="338">
+					<posOnArea x="-0.26101546192438718" y="6.7476865537018043"/>
+				</end>
+				<start area="353">
+					<posOnArea x="0.37296998341702192" y="-0.41744751619091147"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="11">
+				<end area="338">
+					<posOnArea x="14.375688870144813" y="10.918567999251863"/>
+				</end>
+				<start area="354">
+					<posOnArea x="-0.69000223023562057" y="-0.11514096748259917"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="12">
+				<end area="338">
+					<posOnArea x="14.761881596584658" y="8.0607418235971906"/>
+				</end>
+				<start area="375">
+					<posOnArea x="-0.71974678112883339" y="-0.16192907368905907"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="13">
+				<end area="338">
+					<posOnArea x="15.032216505092492" y="6.2456360093300347"/>
+				</end>
+				<start area="374">
+					<posOnArea x="0.22723783296765987" y="0.20219021191321573"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="14">
+				<end area="338">
+					<posOnArea x="17.283448558475868" y="-10.162727455281839"/>
+				</end>
+				<start area="373">
+					<posOnArea x="-0.096252348849702685" y="0.023566244491668442"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="15">
+				<end area="338">
+					<posOnArea x="2.0674551367469576" y="-8.1545252777947752"/>
+				</end>
+				<start area="372">
+					<posOnArea x="0.068506423148448903" y="0.63316034612341099"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="16">
+				<end area="338">
+					<posOnArea x="-6.0742767048466249" y="-3.4874106929562529"/>
+				</end>
+				<start area="387">
+					<posOnArea x="-0.30658267203818923" y="-1.456209766462921"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="17">
+				<end area="338">
+					<posOnArea x="-0.34172842175553342" y="7.8268293394603603"/>
+				</end>
+				<start area="405">
+					<posOnArea x="-1.2844509997917157" y="-0.36573689783822516"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="18">
+				<end area="338">
+					<posOnArea x="-7.3712808395493425" y="12.064932456456347"/>
+				</end>
+				<start area="406">
+					<posOnArea x="-0.6441477674007956" y="-0.056276370835582235"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="19">
+				<end area="338">
+					<posOnArea x="-6.1471328678287023" y="-0.90479963467677038"/>
+				</end>
+				<start area="407">
+					<posOnArea x="-0.50619167097534046" y="-0.22986385797268705"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="20">
+				<end area="338">
+					<posOnArea x="-7.2135471335507191" y="2.084337725087444"/>
+				</end>
+				<start area="388">
+					<posOnArea x="0.15380717640618968" y="-0.94126436006338166"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="21">
+				<end area="338">
+					<posOnArea x="-7.5585126550190012" y="11.036697716582331"/>
+				</end>
+				<start area="409">
+					<posOnArea x="0.17526320493436742" y="-0.72173588525791033"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="22">
+				<end area="338">
+					<posOnArea x="-5.6022235343587568" y="12.278874717652656"/>
+				</end>
+				<start area="408">
+					<posOnArea x="0.077957308312932128" y="-0.28219697013541278"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="23">
+				<end area="338">
+					<posOnArea x="-0.87160664591442583" y="13.187643151307032"/>
+				</end>
+				<start area="389">
+					<posOnArea x="-0.082178591405579482" y="-1.002170347031802"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="24">
+				<end area="338">
+					<posOnArea x="-2.2801541016833653" y="11.91664668302548"/>
+				</end>
+				<start area="410">
+					<posOnArea x="0.054652321881860644" y="-0.50093526659580689"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="25">
+				<end area="338">
+					<posOnArea x="-3.6302838733169551" y="12.839206798138076"/>
+				</end>
+				<start area="396">
+					<posOnArea x="-0.072230620321079186" y="-0.18058920515225729"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="26">
+				<end area="338">
+					<posOnArea x="-0.63027305745498552" y="11.949031149414274"/>
+				</end>
+				<start area="390">
+					<posOnArea x="-0.25330793938729812" y="-0.88260925365990062"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="27">
+				<end area="338">
+					<posOnArea x="0.020906713370777652" y="5.4655944695051133"/>
+				</end>
+				<start area="395">
+					<posOnArea x="0.23926766023964774" y="-0.84255821436064693"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="28">
+				<end area="338">
+					<posOnArea x="14.648118398052873" y="9.4352031277051758"/>
+				</end>
+				<start area="394">
+					<posOnArea x="0.12299102592760391" y="-0.34839687554049803"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="29">
+				<end area="338">
+					<posOnArea x="-0.52153189650334753" y="10.640124434197425"/>
+				</end>
+				<start area="397">
+					<posOnArea x="-0.13043742920592649" y="-0.69153542142759505"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="30">
+				<end area="338">
+					<posOnArea x="0.12727188391551181" y="4.7082041560817487"/>
+				</end>
+				<start area="398">
+					<posOnArea x="-0.37640221820186071" y="-0.4680823692921976"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="31">
+				<end area="338">
+					<posOnArea x="2.1099853414575591" y="-9.3152261264010932"/>
+				</end>
+				<start area="391">
+					<posOnArea x="0.11803713604842869" y="-2.2496874963496865"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="32">
+				<end area="338">
+					<posOnArea x="2.4359320025727698" y="-12.254925160061021"/>
+				</end>
+				<start area="411">
+					<posOnArea x="-0.33137200654556409" y="0.97438327633866351"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="33">
+				<end area="338">
+					<posOnArea x="14.373736189771932" y="-14.93936624925329"/>
+				</end>
+				<start area="399">
+					<posOnArea x="0.42118451927211709" y="-2.0462498429649827"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="34">
+				<end area="338">
+					<posOnArea x="15.745562268776951" y="0.67803492685544597"/>
+				</end>
+				<start area="393">
+					<posOnArea x="0.47229225553303422" y="-1.7738727656901645"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="35">
+				<end area="338">
+					<posOnArea x="-7.1101680785208714" y="3.0225868320262066"/>
+				</end>
+				<start area="401">
+					<posOnArea x="-0.31377636606362103" y="0.44811451544053327"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="36">
+				<end area="338">
+					<posOnArea x="-7.9423168558170687" y="7.1531111376633376"/>
+				</end>
+				<start area="403">
+					<posOnArea x="-0.044875247162053711" y="0.014973774948799701"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="37">
+				<end area="338">
+					<posOnArea x="-8.3377782076914286" y="10.712263304532748"/>
+				</end>
+				<start area="404">
+					<posOnArea x="-0.4360284947404125" y="-0.052902368878324779"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="38">
+				<end area="338">
+					<posOnArea x="-7.1266778175761374" y="7.2766928101240822"/>
+				</end>
+				<start area="386">
+					<posOnArea x="-0.08361274101048366" y="-1.6669862751310376"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="39">
+				<end area="338">
+					<posOnArea x="-5.5478254037085435" y="-7.2891451566435137"/>
+				</end>
+				<start area="385">
+					<posOnArea x="-0.08931801078438184" y="-1.1111138553616229"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="40">
+				<end area="338">
+					<posOnArea x="-12.924106478709177" y="-18.759069131906251"/>
+				</end>
+				<start area="384">
+					<posOnArea x="0.00356360650056331" y="-1.4537639867231391"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="41">
+				<end area="338">
+					<posOnArea x="-8.4272783720438724" y="-18.102541496958558"/>
+				</end>
+				<start area="402">
+					<posOnArea x="0.046523749499783662" y="-1.221583245320204"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="42">
+				<end area="338">
+					<posOnArea x="-4.6703955292372825" y="-14.568105664581296"/>
+				</end>
+				<start area="400">
+					<posOnArea x="0.044003255486018134" y="-1.2687726524814451"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="43">
+				<end area="338">
+					<posOnArea x="-4.5645806078994156" y="-14.746789571706586"/>
+				</end>
+				<start area="417">
+					<posOnArea x="-0.14205731853093084" y="1.1662203174489179"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="44">
+				<end area="338">
+					<posOnArea x="-5.2283493564678452" y="-9.9193804912087984"/>
+				</end>
+				<start area="418">
+					<posOnArea x="0.1217824589955967" y="-1.1081455421209654"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="45">
+				<end area="338">
+					<posOnArea x="-7.2413789430354427" y="2.6415379362464577"/>
+				</end>
+				<start area="429">
+					<posOnArea x="0.24660775354158204" y="-1.0422365500912711"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="46">
+				<end area="338">
+					<posOnArea x="-7.4804503434856997" y="5.8811638960777124"/>
+				</end>
+				<start area="419">
+					<posOnArea x="-0.36359141504755144" y="-1.7309703801711862"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="47">
+				<end area="338">
+					<posOnArea x="-7.1550226288466092" y="12.206777487492054"/>
+				</end>
+				<start area="420">
+					<posOnArea x="-0.31918422319643014" y="-1.3820768704592901"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="48">
+				<end area="338">
+					<posOnArea x="-6.0839035249777567" y="-3.133220004992296"/>
+				</end>
+				<start area="427">
+					<posOnArea x="-0.10582636869042972" y="-2.0730009288300781"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="49">
+				<end area="338">
+					<posOnArea x="-3.8689194869552352" y="12.863514322737952"/>
+				</end>
+				<start area="430">
+					<posOnArea x="0.2975267827818584" y="-0.69806690521806747"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="50">
+				<end area="338">
+					<posOnArea x="-8.3286498207534123" y="10.788851066802554"/>
+				</end>
+				<start area="440">
+					<posOnArea x="-0.013544510130373055" y="-1.6980482154772023"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="51">
+				<end area="338">
+					<posOnArea x="-0.43843262013535877" y="7.9487031777365296"/>
+				</end>
+				<start area="432">
+					<posOnArea x="-0.082489304931300467" y="-0.35068337936133354"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="52">
+				<end area="338">
+					<posOnArea x="0.84791161475015997" y="-0.81845015296917722"/>
+				</end>
+				<start area="421">
+					<posOnArea x="-0.13552867310784222" y="-2.2133044438474645"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="53">
+				<end area="338">
+					<posOnArea x="-0.066249185703725288" y="5.5989401928914546"/>
+				</end>
+				<start area="438">
+					<posOnArea x="-0.012737491846053217" y="-0.23579967545108538"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="54">
+				<end area="338">
+					<posOnArea x="-0.23244122143711365" y="7.4446153187047592"/>
+				</end>
+				<start area="431">
+					<posOnArea x="0.098343539668348967" y="-0.58879641614599532"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="55">
+				<end area="338">
+					<posOnArea x="0.9740858020005021" y="-1.9485200990779958"/>
+				</end>
+				<start area="426">
+					<posOnArea x="-0.087394566587704503" y="-0.57576430080675145"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="56">
+				<end area="338">
+					<posOnArea x="-7.153645138979698" y="7.4858302892113002"/>
+				</end>
+				<start area="435">
+					<posOnArea x="-1.7470387348497525" y="-0.19445653716343259"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="57">
+				<end area="338">
+					<posOnArea x="-1.0900331411480124" y="13.121540746147666"/>
+				</end>
+				<start area="434">
+					<posOnArea x="-0.45067128859551531" y="-0.97205178544030701"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="58">
+				<end area="338">
+					<posOnArea x="0.33501801941497433" y="4.8164661640592321"/>
+				</end>
+				<start area="433">
+					<posOnArea x="-0.23289574026875925" y="-0.36011602691393563"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="59">
+				<end area="338">
+					<posOnArea x="14.574547269386358" y="9.5149834221077612"/>
+				</end>
+				<start area="425">
+					<posOnArea x="0.38440582208608021" y="-2.1094244417827923"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="60">
+				<end area="338">
+					<posOnArea x="15.796485192887417" y="1.0678623278256723"/>
+				</end>
+				<start area="424">
+					<posOnArea x="0.081089089255328872" y="-2.101292188424047"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="61">
+				<end area="338">
+					<posOnArea x="17.230346375022236" y="-8.5276993867068711"/>
+				</end>
+				<start area="423">
+					<posOnArea x="0.39577574479079658" y="-1.8433867107431681"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="62">
+				<end area="338">
+					<posOnArea x="14.673750525990613" y="-14.87091491848102"/>
+				</end>
+				<start area="437">
+					<posOnArea x="0.15767833447375779" y="-1.1004046927847"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="63">
+				<end area="338">
+					<posOnArea x="2.4700603704920923" y="-12.090327288114274"/>
+				</end>
+				<start area="422">
+					<posOnArea x="-0.18789246569838269" y="-1.9929238067309925"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+		</added>
+	</pedestrianTravelTimeMeasurements>
+	<simulation>
+		<modified simPeriod="660"/>
+	</simulation>
+	<static3DModels>
+		<modified>
+			<static3DModel no="357">
+				<coord>
+					<modified x="325.77871291756935" y="-38.168075285974616"/>
+				</coord>
+			</static3DModel>
+		</modified>
+	</static3DModels>
+	<timeIntervalSets>
+		<modified>
+			<timeIntervalSet no="VEHICLENETWORKPERFORMANCEMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="VEHICLETRAVELTIMEMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="DELAYMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="DATACOLLECTIONMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="QUEUECOUNTERSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="LINKEVALSEGMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PATHSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PEDESTRIANTRAVELTIMEMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PEDESTRIANAREASIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PEDESTRIANRAMPSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PEDESTRIANAREAMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="MOVEMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="MESOSIMLANESIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="MESOSIMEDGESIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PEDESTRIANNETWORKPERFORMANCEMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="60"/>
+						<timeInterval start="120"/>
+						<timeInterval start="180"/>
+						<timeInterval start="240"/>
+						<timeInterval start="300"/>
+						<timeInterval start="360"/>
+						<timeInterval start="420"/>
+						<timeInterval start="480"/>
+						<timeInterval start="540"/>
+						<timeInterval start="600"/>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="ODPAIRSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PEDESTRIANGRIDCELLSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PARKINGLOTGROUPSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PARKINGLOTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PARKINGSPACESIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PARKINGROUTINGDECISIONSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="VEHICLEINPUTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="DYNAMICASSIGNMENTEVALUATION">
+				<timeInts>
+					<deleted>
+						<timeInterval start="870"/>
+					</deleted>
+					<added>
+						<timeInterval start="660"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+		</modified>
+	</timeIntervalSets>
+</network>
