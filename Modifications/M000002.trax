@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<areas>
+		<deleted>
+			<area no="351"/>
+			<area no="354"/>
+			<area no="374"/>
+			<area no="375"/>
+			<area no="376"/>
+			<area no="377"/>
+			<area no="392"/>
+			<area no="404"/>
+			<area no="409"/>
+			<area no="410"/>
+			<area no="411"/>
+			<area no="422"/>
+			<area no="424"/>
+			<area no="428"/>
+			<area no="432"/>
+			<area no="433"/>
+			<area no="435"/>
+			<area no="436"/>
+			<area no="437"/>
+			<area no="438"/>
+			<area no="439"/>
+			<area no="440"/>
+		</deleted>
+		<modified>
+			<area name="" no="338"/>
+			<area name="217 - Sala de Aula" no="384"/>
+			<area name="218 - Sala de Aula" no="385"/>
+			<area name="219 - Sala de Aula" no="386"/>
+			<area name="220 - Laboratório" no="387"/>
+			<area name="221 - Laboratório" no="388"/>
+			<area name="210 - Laboratório" no="389"/>
+			<area name="211 - Sala de Aula" no="390"/>
+			<area name="202 - Laboratório" no="391"/>
+			<area name="205 - Laboratório" no="393"/>
+			<area name="206 - Laboratório" no="394"/>
+			<area name="207 - Sala de Aula" no="395"/>
+			<area name="208 - Laboratório" no="396"/>
+			<area name="201 - Sala Administrativa " no="397"/>
+			<area name="201 - Sala Administrativa " no="398"/>
+			<area name="204 - Laboratório" no="399"/>
+			<area name="215 - Sala de Aula" no="400"/>
+			<area name="214 - Sala de Aula" no="401"/>
+			<area name="216 - Sala Administrativa " no="402"/>
+			<area name="213 - Sala Administrativa " no="403"/>
+			<area name="226 - Laboratório" no="405"/>
+			<area name="225 - Laboratório" no="406"/>
+			<area name="224 - Laboratório" no="407"/>
+			<area name="223 - Laboratório" no="408"/>
+			<area name="311- Sala Administrativa " no="417">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="309.20474552937554" y="-40.55813005481248"/>
+								<point x="296.49627395568325" y="-42.444531303384352"/>
+								<point x="297.78285812392971" y="-51.796567202924223"/>
+								<point x="310.6076270876614" y="-49.856686183200097"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</area>
+			<area name="314 - Sala de Aula" no="418"/>
+			<area name="315 - Sala de Aula" no="419"/>
+			<area name="316 - Sala de Aula" no="420"/>
+			<area name="308 - Sala de Aula" no="421"/>
+			<area name="303 - Sala Administrativa " no="423"/>
+			<area name="305 - Sala Administrativa " no="425"/>
+			<area name="306 - Sala de Aula" no="426"/>
+			<area name="318 - Sala de Aula" no="427"/>
+			<area name="310 - Sala de Aula" no="429"/>
+			<area name="317 - Sala Administrativa " no="430"/>
+			<area name="307- Sala Administrativa " no="431"/>
+			<area name="301 - Sala Administrativa " no="434"/>
+		</modified>
+	</areas>
+	<pedestrianInputs>
+		<deleted>
+			<pedestrianInput no="30"/>
+			<pedestrianInput no="31"/>
+			<pedestrianInput no="37"/>
+			<pedestrianInput no="40"/>
+			<pedestrianInput no="41"/>
+			<pedestrianInput no="42"/>
+			<pedestrianInput no="44"/>
+			<pedestrianInput no="45"/>
+			<pedestrianInput no="46"/>
+			<pedestrianInput no="59"/>
+			<pedestrianInput no="70"/>
+			<pedestrianInput no="78"/>
+			<pedestrianInput no="80"/>
+			<pedestrianInput no="85"/>
+			<pedestrianInput no="86"/>
+			<pedestrianInput no="88"/>
+			<pedestrianInput no="89"/>
+			<pedestrianInput no="90"/>
+			<pedestrianInput no="91"/>
+			<pedestrianInput no="92"/>
+			<pedestrianInput no="93"/>
+		</deleted>
+		<modified>
+			<pedestrianInput no="29">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="360000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="36">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="200000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="38">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="105000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="39">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="105000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="43">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="105000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="56">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="105000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="57">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="105000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="58">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="105000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="63">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="105000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="64">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="105000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="65">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="105000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="72">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="360000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="77">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="3096000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="81">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="360000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="87">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="360000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="94">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="130000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+		</modified>
+	</pedestrianInputs>
+	<pedestrianRoutingDecisionsStatic>
+		<deleted>
+			<pedestrianRoutingDecisionStatic no="29"/>
+			<pedestrianRoutingDecisionStatic no="31"/>
+			<pedestrianRoutingDecisionStatic no="36"/>
+			<pedestrianRoutingDecisionStatic no="39"/>
+			<pedestrianRoutingDecisionStatic no="40"/>
+			<pedestrianRoutingDecisionStatic no="41"/>
+			<pedestrianRoutingDecisionStatic no="43"/>
+			<pedestrianRoutingDecisionStatic no="44"/>
+			<pedestrianRoutingDecisionStatic no="45"/>
+			<pedestrianRoutingDecisionStatic no="66"/>
+			<pedestrianRoutingDecisionStatic no="76"/>
+			<pedestrianRoutingDecisionStatic no="77"/>
+			<pedestrianRoutingDecisionStatic no="80"/>
+			<pedestrianRoutingDecisionStatic no="84"/>
+			<pedestrianRoutingDecisionStatic no="85"/>
+			<pedestrianRoutingDecisionStatic no="87"/>
+			<pedestrianRoutingDecisionStatic no="88"/>
+			<pedestrianRoutingDecisionStatic no="94"/>
+			<pedestrianRoutingDecisionStatic no="96"/>
+			<pedestrianRoutingDecisionStatic no="97"/>
+			<pedestrianRoutingDecisionStatic no="98"/>
+		</deleted>
+	</pedestrianRoutingDecisionsStatic>
+</network>
