@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<areaMeasurements>
+		<added>
+			<areaMeasurement name="Porta 2" no="13"/>
+			<areaMeasurement name="Porta 1" no="15">
+				<sections>
+					<intObjectRef key="15"/>
+				</sections>
+			</areaMeasurement>
+			<areaMeasurement name="Porta 2" no="16">
+				<sections>
+					<intObjectRef key="16"/>
+				</sections>
+			</areaMeasurement>
+			<areaMeasurement name="Porta 1" no="32"/>
+		</added>
+		<modified>
+			<areaMeasurement name="Porta 1" no="6">
+				<sections/>
+			</areaMeasurement>
+		</modified>
+	</areaMeasurements>
+	<areas>
+		<deleted>
+			<area no="633"/>
+			<area no="637"/>
+		</deleted>
+		<added>
+			<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="1" name="" no="1047" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+				<geometry>
+					<points>
+						<point x="297.74186534958557" y="-51.879910152846598"/>
+						<point x="302.52214377203762" y="-51.173893207757708"/>
+						<point x="302.40089618852357" y="-50.334080109035874"/>
+						<point x="305.75071826400506" y="-49.875073186138074"/>
+						<point x="305.89644970611118" y="-50.695093133644477"/>
+						<point x="310.64755948538158" y="-50.069522310872607"/>
+						<point x="309.3004984256342" y="-40.524123791039322"/>
+						<point x="296.43894649027209" y="-42.334511633013314"/>
+					</points>
+				</geometry>
+			</area>
+			<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="1" name="" no="1048" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+				<geometry>
+					<points>
+						<point x="315.46887426841585" y="-14.411009608151097"/>
+						<point x="316.72063322067174" y="-23.92365193117196"/>
+						<point x="329.60090609780286" y="-22.113785947622159"/>
+						<point x="328.89166852125305" y="-17.134767794381506"/>
+						<point x="328.00589328949911" y="-17.289418259505325"/>
+						<point x="327.36719696225458" y="-12.796690655006456"/>
+					</points>
+				</geometry>
+			</area>
+		</added>
+	</areas>
+	<obstacles>
+		<deleted>
+			<obstacle no="33"/>
+			<obstacle no="34"/>
+			<obstacle no="48"/>
+			<obstacle no="49"/>
+			<obstacle no="50"/>
+			<obstacle no="52"/>
+			<obstacle no="83"/>
+			<obstacle no="85"/>
+			<obstacle no="121"/>
+			<obstacle no="122"/>
+			<obstacle no="123"/>
+			<obstacle no="124"/>
+			<obstacle no="125"/>
+			<obstacle no="126"/>
+			<obstacle no="127"/>
+			<obstacle no="128"/>
+			<obstacle no="129"/>
+			<obstacle no="130"/>
+			<obstacle no="131"/>
+			<obstacle no="132"/>
+			<obstacle no="133"/>
+			<obstacle no="134"/>
+			<obstacle no="135"/>
+		</deleted>
+		<modified>
+			<obstacle no="8">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="319.91179723770733" y="-49.055828944060188"/>
+								<point x="320.15936425489275" y="-49.021035668820168"/>
+								<point x="315.27819818955669" y="-14.289734437598391"/>
+								<point x="315.03063117237127" y="-14.32452771283841"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+			<obstacle no="51">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="296.31724145019672" y="-42.185292245110503"/>
+								<point x="304.80001291572205" y="-40.993116462755921"/>
+								<point x="304.77913695057805" y="-40.84457625244471"/>
+								<point x="296.29636548505272" y="-42.036752034799292"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+			<obstacle no="113">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="321.8957005084431" y="-31.944511150210868"/>
+								<point x="326.00770578761689" y="-31.366606495975152"/>
+								<point x="325.98682982247288" y="-31.218066285663916"/>
+								<point x="321.8748245432991" y="-31.795970939899632"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+		</modified>
+	</obstacles>
+	<pedestrianInputs>
+		<deleted>
+			<pedestrianInput no="97"/>
+			<pedestrianInput no="98"/>
+		</deleted>
+		<added>
+			<pedestrianInput name="" no="144058">
+				<location area="1047">
+					<posOnArea x="-0.89271289016670607" y="1.8449399730112432"/>
+				</location>
+				<timeIntPedVols>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 0" volType="STOCHASTIC" volume="9000000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 100" volType="STOCHASTIC" volume="30000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 59900" volType="STOCHASTIC" volume="20000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 200000" volType="STOCHASTIC" volume="20000"/>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput name="" no="144059">
+				<location area="1048">
+					<posOnArea x="-2.1563975813583625" y="0.37573293643906069"/>
+				</location>
+				<timeIntPedVols>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 0" volType="STOCHASTIC" volume="9000000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 100" volType="STOCHASTIC" volume="40000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 59900" volType="STOCHASTIC" volume="20000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 200000" volType="STOCHASTIC" volume="25000"/>
+				</timeIntPedVols>
+			</pedestrianInput>
+		</added>
+	</pedestrianInputs>
+	<pedestrianRoutingDecisionsStatic>
+		<deleted>
+			<pedestrianRoutingDecisionStatic no="123"/>
+			<pedestrianRoutingDecisionStatic no="124"/>
+		</deleted>
+		<added>
+			<pedestrianRoutingDecisionStatic allPedTypes="true" name="" no="185" pathChoiceMeth="AREACENTER" routeChoiceMeth="STATIC">
+				<location area="1047">
+					<posOnArea x="-0.43581747346337352" y="-0.58274313663661559"/>
+				</location>
+				<pedRoutSta>
+					<pedestrianRouteStatic formula="" name="" no="1" relFlow="">
+						<pedRoutLoc>
+							<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+								<posOnArea x="-7.2791989828464807" y="-17.852251971105751"/>
+							</pedestrianRouteLocation>
+						</pedRoutLoc>
+					</pedestrianRouteStatic>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic allPedTypes="true" name="" no="186" pathChoiceMeth="AREACENTER" routeChoiceMeth="STATIC">
+				<location area="1048">
+					<posOnArea x="-0.59672897191592256" y="0.6475144163342712"/>
+				</location>
+				<pedRoutSta>
+					<pedestrianRouteStatic formula="" name="" no="1" relFlow="">
+						<pedRoutLoc>
+							<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+								<posOnArea x="13.84367667915069" y="15.06285121109542"/>
+							</pedestrianRouteLocation>
+						</pedRoutLoc>
+					</pedestrianRouteStatic>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+		</added>
+	</pedestrianRoutingDecisionsStatic>
+	<sections>
+		<deleted>
+			<section no="6"/>
+		</deleted>
+		<added>
+			<section displayType="61" level="1" name="" no="15">
+				<geometry>
+					<points>
+						<point x="302.44524797800898" y="-50.37893743406083"/>
+						<point x="302.57172242365436" y="-51.124471008391374"/>
+						<point x="305.84008836112133" y="-50.685138723518016"/>
+						<point x="305.72027046524676" y="-49.926292049645859"/>
+					</points>
+				</geometry>
+			</section>
+			<section displayType="61" level="1" name="" no="16">
+				<geometry>
+					<points>
+						<point x="328.09207038452428" y="-17.168734571661457"/>
+						<point x="328.91373824685849" y="-17.023122545425021"/>
+						<point x="328.32088928289585" y="-12.592356604230652"/>
+						<point x="327.45761798449411" y="-12.737968630467087"/>
+					</points>
+				</geometry>
+			</section>
+		</added>
+	</sections>
+	<simulation>
+		<modified simSpeed="15"/>
+	</simulation>
+	<timeIntervalSets>
+		<modified>
+			<timeIntervalSet no="PEDESTRIANINPUT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="30"/>
+						<timeInterval start="60"/>
+						<timeInterval start="90"/>
+						<timeInterval start="120"/>
+						<timeInterval start="150"/>
+					</deleted>
+					<added>
+						<timeInterval start="59.9"/>
+						<timeInterval start="200"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+		</modified>
+	</timeIntervalSets>
+</network>

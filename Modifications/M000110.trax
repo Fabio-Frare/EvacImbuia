@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<evaluation>
+		<modified>
+			<areaMeasResults>
+				<modified collectData="true" toTime="692"/>
+			</areaMeasResults>
+			<pedNetPerf>
+				<modified collectData="true" interval="30" toTime="692"/>
+			</pedNetPerf>
+			<pedTravTms>
+				<modified collectData="true" toTime="692"/>
+			</pedTravTms>
+		</modified>
+	</evaluation>
+	<obstacles>
+		<modified>
+			<obstacle no="29">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="328.50892237945516" y="-13.559187399696292"/>
+								<point x="328.75648939664057" y="-13.524394124456276"/>
+								<point x="328.57246640230062" y="-12.215002482307156"/>
+								<point x="328.3248993851152" y="-12.249795757547172"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+		</modified>
+	</obstacles>
+	<pedestrianInputs>
+		<modified>
+			<pedestrianInput no="28">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="29">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="33">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="34">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="36">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="37">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="38">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="39">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="41">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="43">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="47">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="48">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="49">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="50">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="51">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="55">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="56">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="58">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="66">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="69">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="71">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="72">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="73">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="74">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="76">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="79">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="80">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="81">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="82">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="83">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="87">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="94">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 100" volType="EXACT"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+		</modified>
+	</pedestrianInputs>
+	<simulation>
+		<modified simPeriod="692" simSpeed="1"/>
+	</simulation>
+	<timeIntervalSets>
+		<modified>
+			<timeIntervalSet no="VEHICLENETWORKPERFORMANCEMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="VEHICLETRAVELTIMEMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="DELAYMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="DATACOLLECTIONMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="QUEUECOUNTERSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="LINKEVALSEGMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PATHSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PEDESTRIANTRAVELTIMEMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PEDESTRIANAREAMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="600"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="MOVEMENTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="MESOSIMLANESIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="MESOSIMEDGESIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PEDESTRIANNETWORKPERFORMANCEMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<added>
+						<timeInterval start="30"/>
+						<timeInterval start="90"/>
+						<timeInterval start="150"/>
+						<timeInterval start="210"/>
+						<timeInterval start="270"/>
+						<timeInterval start="330"/>
+						<timeInterval start="390"/>
+						<timeInterval start="450"/>
+						<timeInterval start="510"/>
+						<timeInterval start="570"/>
+						<timeInterval start="630"/>
+						<timeInterval start="660"/>
+						<timeInterval start="690"/>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="ODPAIRSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PEDESTRIANGRIDCELLSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PARKINGLOTGROUPSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PARKINGLOTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PARKINGSPACESIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="PARKINGROUTINGDECISIONSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="VEHICLEINPUTSIMULATIONRESULT">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+			<timeIntervalSet no="DYNAMICASSIGNMENTEVALUATION">
+				<timeInts>
+					<deleted>
+						<timeInterval start="1000"/>
+					</deleted>
+					<added>
+						<timeInterval start="692"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+		</modified>
+	</timeIntervalSets>
+</network>

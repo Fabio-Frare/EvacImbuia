@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<evaluation>
+		<modified>
+			<areaResults>
+				<modified collectData="false"/>
+			</areaResults>
+			<pedNetPerf>
+				<modified interval="30"/>
+			</pedNetPerf>
+		</modified>
+	</evaluation>
+	<obstacles>
+		<modified>
+			<obstacle no="29">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="328.50720267196033" y="-13.546951045056142"/>
+								<point x="328.75476968914575" y="-13.512157769816126"/>
+								<point x="328.57246640230062" y="-12.215002482307156"/>
+								<point x="328.3248993851152" y="-12.249795757547172"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+		</modified>
+	</obstacles>
+	<simulation>
+		<modified simSpeed="1"/>
+	</simulation>
+	<timeIntervalSets>
+		<modified>
+			<timeIntervalSet no="PEDESTRIANNETWORKPERFORMANCEMEASUREMENTSIMULATIONRESULT">
+				<timeInts>
+					<added>
+						<timeInterval start="30"/>
+						<timeInterval start="90"/>
+						<timeInterval start="150"/>
+						<timeInterval start="210"/>
+						<timeInterval start="270"/>
+						<timeInterval start="330"/>
+						<timeInterval start="390"/>
+					</added>
+				</timeInts>
+			</timeIntervalSet>
+		</modified>
+	</timeIntervalSets>
+</network>

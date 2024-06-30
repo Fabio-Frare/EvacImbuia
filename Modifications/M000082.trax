@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<areas>
+		<added>
+			<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="1" name="112 - Sala Administrativa" no="807" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+				<geometry>
+					<points>
+						<point x="297.55665075293592" y="-24.365069732541713"/>
+						<point x="294.04229799914617" y="-24.852609998963416"/>
+						<point x="294.32669648789215" y="-27.026227020093515"/>
+						<point x="298.99895737443347" y="-26.3355449759961"/>
+						<point x="298.91770066336318" y="-25.644862931898686"/>
+						<point x="297.88167759721705" y="-25.766747998504112"/>
+					</points>
+				</geometry>
+			</area>
+			<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="1" name="111 - Sala Administrativa" no="808" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+				<geometry>
+					<points>
+						<point x="298.89992575781656" y="-34.607224235728921"/>
+						<point x="299.97911645171877" y="-34.416778819157948"/>
+						<point x="299.09037117438754" y="-26.830703059080641"/>
+						<point x="294.48794027392222" y="-27.529002919840895"/>
+						<point x="295.88453999544276" y="-36.702123818009682"/>
+						<point x="299.12211207714938" y="-36.226010276582237"/>
+					</points>
+				</geometry>
+			</area>
+			<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="2" name="210 - Laboratório" no="811" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+				<geometry>
+					<points>
+						<point x="316.45772848906637" y="3.2855552335539722"/>
+						<point x="317.53691918296857" y="3.4442597473631205"/>
+						<point x="316.61643300287551" y="10.776408285345786"/>
+						<point x="312.10922481069565" y="10.109849327347362"/>
+						<point x="313.37886092116889" y="1.1589147485113802"/>
+						<point x="316.71165571116097" y="1.7937328037479752"/>
+					</points>
+				</geometry>
+			</area>
+			<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="2" name="221 - Laboratório" no="812" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+				<geometry>
+					<points>
+						<point x="294.09717504431177" y="-0.085507182330383014"/>
+						<point x="295.19414064376065" y="0.1582629508804696"/>
+						<point x="294.11748922207937" y="7.7963937914871755"/>
+						<point x="289.60774175767858" y="7.0853975696221907"/>
+						<point x="290.867220779268" y="-2.1778674923901984"/>
+						<point x="294.34094517752266" y="-1.6090705148982098"/>
+					</points>
+				</geometry>
+			</area>
+			<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="3" name="305 - Sala Administrativa" no="814" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+				<geometry>
+					<points>
+						<point x="325.57243868687942" y="-27.606491638587258"/>
+						<point x="330.04790597629739" y="-26.939932680588832"/>
+						<point x="328.81001076858604" y="-17.671589074134555"/>
+						<point x="325.50895688135574" y="-18.179443518323829"/>
+						<point x="325.69940229792672" y="-19.734747753653487"/>
+						<point x="324.58847070126268" y="-19.988674975748125"/>
+					</points>
+				</geometry>
+			</area>
+			<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="3" name="309 - Sala Administrativa" no="815" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+				<geometry>
+					<points>
+						<point x="302.46813017682746" y="-25.661532175334496"/>
+						<point x="306.91185656348358" y="-24.987037991645614"/>
+						<point x="306.31671463669926" y="-20.821044504155466"/>
+						<point x="303.02359597515942" y="-21.257481917130626"/>
+						<point x="303.14262436051632" y="-22.289061256890093"/>
+						<point x="302.07136889230458" y="-22.566794156056101"/>
+					</points>
+				</geometry>
+			</area>
+			<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="2" name="201 - Sala Administrativa" no="816" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+				<geometry>
+					<points>
+						<point x="320.6786969721644" y="-18.724329429028245"/>
+						<point x="316.26036330771768" y="-19.257576595426983"/>
+						<point x="316.92057408516376" y="-23.650517537664218"/>
+						<point x="320.27241341681298" y="-23.295019426731724"/>
+						<point x="320.04387891692778" y="-21.619099760907115"/>
+						<point x="321.0341950830969" y="-21.263601649974621"/>
+					</points>
+				</geometry>
+			</area>
+			<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="2" name="212 - Sala Administrativa" no="817" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+				<geometry>
+					<points>
+						<point x="303.22215268024092" y="-23.117905189320723"/>
+						<point x="306.71619125626313" y="-22.610050745131446"/>
+						<point x="306.41147858974955" y="-20.619261323909488"/>
+						<point x="301.84078859204607" y="-21.228686656936617"/>
+						<point x="302.0236161919542" y="-21.83811198996375"/>
+						<point x="302.93775419149489" y="-21.777169456661035"/>
+					</points>
+				</geometry>
+			</area>
+			<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="1" name="103 - Sala Administrativa" no="820" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+				<geometry>
+					<points>
+						<point x="323.06575792569868" y="-46.430068257181212"/>
+						<point x="324.30563693983254" y="-46.033306972658337"/>
+						<point x="323.31373372852539" y="-38.742818369550562"/>
+						<point x="319.09814508046986" y="-39.38755545690023"/>
+						<point x="320.33802409460384" y="-48.364279519230209"/>
+						<point x="323.16494824682928" y="-47.917923074141974"/>
+					</points>
+				</geometry>
+			</area>
+		</added>
+	</areas>
+	<evaluation>
+		<modified>
+			<pedTravTms>
+				<modified collectData="false"/>
+			</pedTravTms>
+		</modified>
+	</evaluation>
+	<pedestrianInputs>
+		<added>
+			<pedestrianInput name="" no="144007">
+				<location area="807">
+					<posOnArea x="0.48754026642171766" y="0.31486975539734985"/>
+				</location>
+				<timeIntPedVols>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 0" volType="EXACT" volume="144000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 100" volType="EXACT" volume="0"/>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput name="" no="144008">
+				<location area="808">
+					<posOnArea x="-0.428502187284721" y="1.1902838535686122"/>
+				</location>
+				<timeIntPedVols>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 0" volType="EXACT" volume="1152000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 100" volType="EXACT" volume="0"/>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput name="" no="144009">
+				<location area="811">
+					<posOnArea x="-0.52372489557023982" y="2.9995153109929085"/>
+				</location>
+				<timeIntPedVols>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 0" volType="EXACT" volume="1152000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 100" volType="EXACT" volume="0"/>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput name="" no="144010">
+				<location area="812">
+					<posOnArea x="-0.76178166628392319" y="3.5651381982087149"/>
+				</location>
+				<timeIntPedVols>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 0" volType="EXACT" volume="1152000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 100" volType="EXACT" volume="0"/>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput name="" no="144011">
+				<location area="814">
+					<posOnArea x="-0.15870451380914119" y="0.99983843699763852"/>
+				</location>
+				<timeIntPedVols>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 0" volType="EXACT" volume="1152000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 100" volType="EXACT" volume="0"/>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput name="" no="144012">
+				<location area="815">
+					<posOnArea x="0.27773289916598287" y="-1.3093122389254752"/>
+				</location>
+				<timeIntPedVols>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 0" volType="EXACT" volume="540000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 100" volType="EXACT" volume="0"/>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput name="" no="144013">
+				<location area="816">
+					<posOnArea x="-0.35549811093250128" y="1.3458142771015815"/>
+				</location>
+				<timeIntPedVols>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 0" volType="EXACT" volume="540000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 100" volType="EXACT" volume="0"/>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput name="" no="144014">
+				<location area="817">
+					<posOnArea x="1.5845058658705398" y="0.13204215548920928"/>
+				</location>
+				<timeIntPedVols>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 0" volType="EXACT" volume="144000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 100" volType="EXACT" volume="0"/>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput name="" no="144015">
+				<location area="820">
+					<posOnArea x="-0.47115402537087903" y="2.7773289916601058"/>
+				</location>
+				<timeIntPedVols>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 0" volType="EXACT" volume="720000"/>
+					<timeIntervalPedVolume cont="false" pedComp="1" timeInt="5 100" volType="EXACT" volume="0"/>
+				</timeIntPedVols>
+			</pedestrianInput>
+		</added>
+		<modified>
+			<pedestrianInput no="36">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="288000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="144006">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="1152000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+		</modified>
+	</pedestrianInputs>
+	<pedestrianRoutingDecisionsStatic>
+		<added>
+			<pedestrianRoutingDecisionStatic allPedTypes="true" name="" no="135" pathChoiceMeth="AREACENTER" routeChoiceMeth="STATIC">
+				<location area="807">
+					<posOnArea x="-0.24377013321083041" y="0.15235633325678322"/>
+				</location>
+				<pedRoutSta>
+					<pedestrianRouteStatic formula="" name="" no="1" relFlow="">
+						<pedRoutLoc>
+							<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+								<posOnArea x="-7.2459930145217299" y="6.6279340541510585"/>
+							</pedestrianRouteLocation>
+						</pedRoutLoc>
+					</pedestrianRouteStatic>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic allPedTypes="true" name="" no="136" pathChoiceMeth="AREACENTER" routeChoiceMeth="STATIC">
+				<location area="808">
+					<posOnArea x="-0.23805677071374021" y="0.49198399280836114"/>
+				</location>
+				<pedRoutSta>
+					<pedestrianRouteStatic formula="" name="" no="1" relFlow="">
+						<pedRoutLoc>
+							<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+								<posOnArea x="-6.215048492817516" y="-1.2679329168816977"/>
+							</pedestrianRouteLocation>
+						</pedRoutLoc>
+					</pedestrianRouteStatic>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic allPedTypes="true" name="" no="137" pathChoiceMeth="AREACENTER" routeChoiceMeth="STATIC">
+				<location area="811">
+					<posOnArea x="-0.26979767347557981" y="1.825101908805209"/>
+				</location>
+				<pedRoutSta>
+					<pedestrianRouteStatic formula="" name="" no="1" relFlow="">
+						<pedRoutLoc>
+							<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+								<posOnArea x="-2.0836476298217121" y="12.882651286552566"/>
+							</pedestrianRouteLocation>
+						</pedRoutLoc>
+					</pedestrianRouteStatic>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic allPedTypes="true" name="" no="138" pathChoiceMeth="AREACENTER" routeChoiceMeth="STATIC">
+				<location area="812">
+					<posOnArea x="-0.84303837735421894" y="2.1431457544787436"/>
+				</location>
+				<pedRoutSta>
+					<pedestrianRouteStatic formula="" name="" no="1" relFlow="">
+						<pedRoutLoc>
+							<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+								<posOnArea x="-7.9360749571762312" y="9.0202396959150697"/>
+							</pedestrianRouteLocation>
+						</pedRoutLoc>
+					</pedestrianRouteStatic>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic allPedTypes="true" name="" no="139" pathChoiceMeth="AREACENTER" routeChoiceMeth="STATIC">
+				<location area="814">
+					<posOnArea x="-0.095222708285461977" y="0.047611354142745199"/>
+				</location>
+				<pedRoutSta>
+					<pedestrianRouteStatic formula="" name="" no="1" relFlow="">
+						<pedRoutLoc>
+							<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+								<posOnArea x="14.712361036354139" y="9.2560398868230642"/>
+							</pedestrianRouteLocation>
+						</pedRoutLoc>
+					</pedestrianRouteStatic>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic allPedTypes="true" name="" no="140" pathChoiceMeth="AREACENTER" routeChoiceMeth="STATIC">
+				<location area="815">
+					<posOnArea x="0.039676128452242665" y="-0.19838064226143359"/>
+				</location>
+				<pedRoutSta>
+					<pedestrianRouteStatic formula="" name="" no="1" relFlow="">
+						<pedRoutLoc>
+							<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+								<posOnArea x="-7.9415440635074788" y="7.2889330846803162"/>
+							</pedestrianRouteLocation>
+						</pedRoutLoc>
+					</pedestrianRouteStatic>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic allPedTypes="true" name="" no="141" pathChoiceMeth="AREACENTER" routeChoiceMeth="STATIC">
+				<location area="816">
+					<posOnArea x="-0.27931994430412033" y="0.48246172197980997"/>
+				</location>
+				<pedRoutSta>
+					<pedestrianRouteStatic formula="" name="" no="1" relFlow="">
+						<pedRoutLoc>
+							<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+								<posOnArea x="-0.59874496479341133" y="9.0285630037369486"/>
+							</pedestrianRouteLocation>
+						</pedRoutLoc>
+					</pedestrianRouteStatic>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic allPedTypes="true" name="" no="142" pathChoiceMeth="AREACENTER" routeChoiceMeth="STATIC">
+				<location area="817">
+					<posOnArea x="0.87350964400553721" y="0.11172797772163889"/>
+				</location>
+				<pedRoutSta>
+					<pedestrianRouteStatic formula="" name="" no="1" relFlow="">
+						<pedRoutLoc>
+							<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+								<posOnArea x="-7.451288462044829" y="9.7033745964534361"/>
+							</pedestrianRouteLocation>
+						</pedRoutLoc>
+					</pedestrianRouteStatic>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic allPedTypes="true" name="" no="143" pathChoiceMeth="AREACENTER" routeChoiceMeth="STATIC">
+				<location area="820">
+					<posOnArea x="-0.37196370424015868" y="1.5374499775261299"/>
+				</location>
+				<pedRoutSta>
+					<pedestrianRouteStatic formula="" name="" no="1" relFlow="">
+						<pedRoutLoc>
+							<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+								<posOnArea x="2.8520329925466399" y="-13.047133197036466"/>
+							</pedestrianRouteLocation>
+						</pedRoutLoc>
+					</pedestrianRouteStatic>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+		</added>
+	</pedestrianRoutingDecisionsStatic>
+	<pedestrianTravelTimeMeasurements>
+		<added>
+			<pedestrianTravelTimeMeasurement name="" no="154">
+				<end area="338">
+					<posOnArea x="-7.1241079479163432" y="5.7747385879130775"/>
+				</end>
+				<start area="807">
+					<posOnArea x="-1.0360230661460719" y="0.091413799954068509"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="155">
+				<end area="338">
+					<posOnArea x="-5.9611212707229129" y="-2.8549780549731878"/>
+				</end>
+				<start area="808">
+					<posOnArea x="-0.14283406242822139" y="-0.30153857623738745"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="156">
+				<end area="338">
+					<posOnArea x="-1.5440522828706094" y="12.216092328554137"/>
+				</end>
+				<start area="811">
+					<posOnArea x="-0.30153857623741942" y="0.8093930204266595"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="157">
+				<end area="338">
+					<posOnArea x="-7.1028762596781689" y="11.361131274600016"/>
+				</end>
+				<start area="812">
+					<posOnArea x="-0.665606730915556" y="1.4146920360947566"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="158">
+				<end area="338">
+					<posOnArea x="14.807583744639658" y="8.3355537067300034"/>
+				</end>
+				<start area="814">
+					<posOnArea x="0.15870451380914119" y="-0.77765211766482523"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="159">
+				<end area="338">
+					<posOnArea x="-7.819658996902092" y="6.5373085072801871"/>
+				</end>
+				<start area="815">
+					<posOnArea x="-0.012696361104815423" y="0.73575412601922352"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="160">
+				<end area="338">
+					<posOnArea x="-0.319425020489291" y="8.0128541153583939"/>
+				</end>
+				<start area="816">
+					<posOnArea x="-0.22853449988519969" y="-0.45706899977034965"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="161">
+				<end area="338">
+					<posOnArea x="-8.2232272172125249" y="10.820654373669846"/>
+				</end>
+				<start area="817">
+					<posOnArea x="0" y="0.21329886655949437"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+			<pedestrianTravelTimeMeasurement name="" no="162">
+				<end area="338">
+					<posOnArea x="2.0585104235008771" y="-8.1372123010659294"/>
+				</end>
+				<start area="820">
+					<posOnArea x="-0.37196370424015868" y="0.24797580282680087"/>
+				</start>
+			</pedestrianTravelTimeMeasurement>
+		</added>
+	</pedestrianTravelTimeMeasurements>
+</network>

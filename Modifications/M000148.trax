@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<areas>
+		<modified>
+			<area no="77">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="313.19871782679525" y="-51.807622628598672"/>
+								<point x="334.76004754914072" y="-48.777375352126754"/>
+								<point x="334.62087444818064" y="-47.787107283385183"/>
+								<point x="313.05954472583517" y="-50.817354559857101"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</area>
+			<area no="338">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="315.68136638206062" y="-19.222372664327658"/>
+								<point x="306.88849972067584" y="-20.455490649099495"/>
+								<point x="311.07790961873991" y="-50.316227973995225"/>
+								<point x="305.95335543465654" y="-51.040364350561987"/>
+								<point x="306.06916497543614" y="-51.800381872853897"/>
+								<point x="302.70618208481619" y="-52.24666638874681"/>
+								<point x="302.58102205211668" y="-51.514069645508087"/>
+								<point x="296.51774684528482" y="-52.368834834719635"/>
+								<point x="296.73607116004712" y="-54.110888898464808"/>
+								<point x="313.20139840397638" y="-51.781186074974819"/>
+								<point x="309.03122003536322" y="-22.482099427757497"/>
+								<point x="314.43088175795418" y="-21.660398538189924"/>
+								<point x="318.62276544499383" y="-51.011233251710848"/>
+								<point x="335.45081683235105" y="-48.671466640632588"/>
+								<point x="330.27154988234253" y="-12.115029530061621"/>
+								<point x="328.60759046467928" y="-12.294411736572105"/>
+								<point x="328.79634290320797" y="-13.308706716489429"/>
+								<point x="329.64760895559937" y="-13.178874081247951"/>
+								<point x="330.01411149471119" y="-16.336471736666816"/>
+								<point x="329.19224329570409" y="-16.45102550154914"/>
+								<point x="333.51437327898282" y="-47.179389462476763"/>
+								<point x="319.85818518476225" y="-49.118390087430882"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</area>
+			<area no="1047">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="297.74186534958557" y="-51.879910152846598"/>
+								<point x="310.64755948538158" y="-50.069522310872607"/>
+								<point x="309.3004984256342" y="-40.524123791039322"/>
+								<point x="296.43894649027209" y="-42.334511633013314"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</area>
+			<area no="1048">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="315.46887426841585" y="-14.411009608151097"/>
+								<point x="316.72063322067174" y="-23.92365193117196"/>
+								<point x="329.60090609780286" y="-22.113785947622159"/>
+								<point x="328.24812541187015" y="-12.656728919159697"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</area>
+		</modified>
+	</areas>
+	<obstacles>
+		<added>
+			<obstacle displayType="43" height="1" level="1" name="" no="138662" zOffsetB="0">
+				<geometry>
+					<points>
+						<point x="326.67607710572145" y="-16.65270451513749"/>
+						<point x="329.1517472775754" y="-16.304771762737332"/>
+						<point x="329.13435063995541" y="-16.180988254144637"/>
+						<point x="326.65868046810141" y="-16.528921006544799"/>
+					</points>
+				</geometry>
+				<label showLabel="true">
+					<labPosRel x="0" y="0.00000000000000710543"/>
+				</label>
+			</obstacle>
+			<obstacle displayType="43" height="1" level="1" name="" no="138663" zOffsetB="0">
+				<geometry>
+					<points>
+						<point x="326.27972417093508" y="-13.855532273202702"/>
+						<point x="328.75539434278903" y="-13.507599520802543"/>
+						<point x="328.73799770516905" y="-13.383816012209849"/>
+						<point x="326.26232753331504" y="-13.73174876461001"/>
+					</points>
+				</geometry>
+				<label showLabel="true">
+					<labPosRel x="0" y="0.00000000000000710543"/>
+				</label>
+			</obstacle>
+			<obstacle displayType="43" height="1" level="1" name="" no="138664" zOffsetB="0">
+				<geometry>
+					<points>
+						<point x="302.91619933521247" y="-51.424744666358457"/>
+						<point x="303.06473954552376" y="-51.403868701214442"/>
+						<point x="302.71680679312357" y="-48.928198529360522"/>
+						<point x="302.56826658281233" y="-48.949074494504536"/>
+					</points>
+				</geometry>
+				<label showLabel="true">
+					<labPosRel x="0" y="0.00000000000001421085"/>
+				</label>
+			</obstacle>
+			<obstacle displayType="43" height="1" level="1" name="" no="138665" zOffsetB="0">
+				<geometry>
+					<points>
+						<point x="305.45450353806945" y="-51.069209045949343"/>
+						<point x="305.60304374838074" y="-51.048333080805328"/>
+						<point x="305.25511099598054" y="-48.572662908951408"/>
+						<point x="305.10657078566931" y="-48.593538874095422"/>
+					</points>
+				</geometry>
+				<label showLabel="true">
+					<labPosRel x="0" y="0.00000000000001421085"/>
+				</label>
+			</obstacle>
+		</added>
+	</obstacles>
+	<pedestrianRoutingDecisionsStatic>
+		<modified>
+			<pedestrianRoutingDecisionStatic no="185">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1">
+							<pedRoutLoc>
+								<overwritten>
+									<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+										<posOnArea x="-11.358203709780355" y="-19.407846182932943"/>
+									</pedestrianRouteLocation>
+								</overwritten>
+							</pedRoutLoc>
+						</pedestrianRouteStatic>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="186">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1">
+							<pedRoutLoc>
+								<overwritten>
+									<pedestrianRouteLocation area="338" banElevUse="false" calcInt="1" cellSize="0.15" g="1.5" h="0.7" impact="1" obstDist="0.5" pathChoiceMeth="AREACENTER" useDynPot="true">
+										<posOnArea x="14.230938128267098" y="18.538695243563474"/>
+									</pedestrianRouteLocation>
+								</overwritten>
+							</pedRoutLoc>
+						</pedestrianRouteStatic>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+		</modified>
+	</pedestrianRoutingDecisionsStatic>
+	<sections>
+		<modified>
+			<section no="15">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="302.62595960082098" y="-51.479433493370287"/>
+								<point x="302.75243404646636" y="-52.224967067700831"/>
+								<point x="306.02079998393333" y="-51.785634782827472"/>
+								<point x="305.90098208805875" y="-51.026788108955316"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</section>
+			<section no="16">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="329.21620305237582" y="-16.360164487507308"/>
+								<point x="329.93254486302908" y="-16.233217837518126"/>
+								<point x="329.53294922057324" y="-13.246766193901303"/>
+								<point x="328.78837155086012" y="-13.372357608069784"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</section>
+		</modified>
+	</sections>
+</network>
