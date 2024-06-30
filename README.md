@@ -11,9 +11,10 @@ O objetivo deste projeto é a realização simulações de evacuação do Bloco 
  - [**Fábio Frare**](mailto:fabiofrare.jb@@gmail.com) (autor do projeto e acadêmico de Engenharia de Software).
  - [**Fernando dos Santos**](mailto:fernando.santos@udesc.br) (orientador do projeto e professor no curso de Engenharia de Software).
 
-As simulações foram realizadas com o auxílio do software [PTV Vissim /Viswalk](https://www.ptvgroup.com/pt-br), no qual permite simulações baseadas em agentes.
+As simulações foram realizadas com o auxílio do software [PTV Vissim/Viswalk](https://www.ptvgroup.com/pt-br), no qual permite simulações baseadas em agentes.
 
 O Bloco Imbuia é um edifício composto de três pavimentos integrando 16 salas de aula, 35 salas administrativas e 12 laboratórios, que garantem um aumento significativo na capacidade de atendimento do centro de ensino. 
 
 >Figura 1: Vista aérea do Bloco Imbuia
 
+![Vista aérea do Bloco Imbuia](Componentes externos/Imagens/Bloco_Imbuia.jpg)
