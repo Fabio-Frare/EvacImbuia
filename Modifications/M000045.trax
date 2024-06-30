@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1204" vissimVersion="2024.00-05 [275319]">
+	<desSpeedDistributions>
+		<added>
+			<desSpeedDistribution name="6,6 km/h (1,83 m/s)" no="1051">
+				<speedDistrDatPts>
+					<speedDistributionDataPoint fx="0" x="6.5999999046325684"/>
+					<speedDistributionDataPoint fx="1" x="6.5999999046325684"/>
+				</speedDistrDatPts>
+			</desSpeedDistribution>
+		</added>
+	</desSpeedDistributions>
+	<simulation>
+		<modified simSpeed="1"/>
+	</simulation>
+</network>
