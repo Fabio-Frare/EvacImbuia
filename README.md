@@ -16,4 +16,4 @@ As simulações foram realizadas com o auxílio do software [PTV Vissim /Viswalk
 O Bloco Imbuia é um edifício composto de três pavimentos integrando 16 salas de aula, 35 salas administrativas e 12 laboratórios, que garantem um aumento significativo na capacidade de atendimento do centro de ensino. 
 
 >Figura 1: Vista aérea do Bloco Imbuia
-![Vista aérea do Bloco Imbuia](images/Componentes externos/Imagens/Bloco_imbuia.jpg)
+![Vista aérea do Bloco Imbuia](Componentes externos/Imagens/Bloco_imbuia.jpg)
